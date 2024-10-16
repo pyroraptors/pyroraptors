@@ -17,6 +17,8 @@ I can be reached through Discord (@firechimken) or via email (tech.raptor@outloo
 
 Fun fact: I can play (collegiate level) a total of 3 instruments--flute, oboe, and marimba.
 
+Fun fact #2: I am moderately conversational in German.
+
 <!---
 pyroraptors/pyroraptors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
